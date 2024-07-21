@@ -54,3 +54,7 @@ SCD41 uses I2C, so this is the plan:
 2. [truetype2gfx](https://rop.nl/truetype2gfx/) converts TTF to GFX
 3. Please note that ```canvas``` [doesn't wotk with custom fints](https://learn.adafruit.com/adafruit-gfx-graphics-library/minimizing-redraw-flicker)
 4. Some great online [RGB565 Color Picker](https://rgbcolorpicker.com/565)
+
+## The look
+
+![](Assets/IMG_3511.jpeg)
